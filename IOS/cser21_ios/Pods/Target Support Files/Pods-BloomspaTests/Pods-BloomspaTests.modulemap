@@ -1,0 +1,6 @@
+framework module Pods_BloomspaTests {
+  umbrella header "Pods-BloomspaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

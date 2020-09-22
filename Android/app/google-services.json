@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976351881273",
+    "firebase_url": "https://bloom-spa-f3cc0.firebaseio.com",
+    "project_id": "bloom-spa-f3cc0",
+    "storage_bucket": "bloom-spa-f3cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976351881273:android:fe064be3999f52050085e8",
+        "android_client_info": {
+          "package_name": "vn.bloomspa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976351881273-8bd6ug7eacoj1kjvukjgam32f51omp27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ixoiEAjX6Y9F1uQbNMo3soCsyIcBY5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976351881273-8bd6ug7eacoj1kjvukjgam32f51omp27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
